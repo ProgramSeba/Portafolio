@@ -81,6 +81,7 @@ body {
 
 .presentacion{
     text-align: center;
+    padding: 20px;
 }
 
 
@@ -193,6 +194,7 @@ body {
 }
 
 .diploma {
+    padding: 20px;
     margin: 20px;
     text-align: center;
     background-color: #fff;
@@ -204,6 +206,8 @@ body {
 }
 
 .diploma img {
+    
+    border-radius: 10px;
     width: 100%;
     border-radius: 10px 10px 0 0;
     transition: transform 0.3s;
